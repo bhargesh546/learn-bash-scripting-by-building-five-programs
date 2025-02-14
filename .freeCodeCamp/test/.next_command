@@ -337,3 +337,9 @@ touch fortune.sh
 chmod +x fortune.sh
 code fortune.sh
 ./fortune.sh
+help arr
+help ARR
+man arr
+man ARR
+info ARR
+ARR=("a" "b" "c")
