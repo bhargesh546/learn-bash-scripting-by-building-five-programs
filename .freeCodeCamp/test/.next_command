@@ -121,3 +121,4 @@ ls --color=auto -l
 chmod +x countdown.sh
 ls --color=auto -l
 which bash
+./countdown.sh
