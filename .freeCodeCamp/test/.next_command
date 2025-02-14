@@ -274,3 +274,5 @@ chmod +x bingo.sh
 code bingo.sh
 ./bingo.sh
 printenv
+echo LANG
+echo $LANG
