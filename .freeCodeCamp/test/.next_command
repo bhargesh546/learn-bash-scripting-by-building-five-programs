@@ -335,3 +335,4 @@ help test
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+code fortune.sh
