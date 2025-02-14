@@ -108,3 +108,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo Hello $NAME
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
