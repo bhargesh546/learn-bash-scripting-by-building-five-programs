@@ -336,3 +336,4 @@ help test
 touch fortune.sh
 chmod +x fortune.sh
 code fortune.sh
+./fortune.sh
