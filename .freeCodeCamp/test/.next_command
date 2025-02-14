@@ -311,3 +311,4 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo $(( RANDOM % 75 ))
+echo $(( RANDOM % 75 + 1 ))
