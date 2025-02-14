@@ -303,3 +303,4 @@ echo $J
 declare -p
 history
 declare -p J
+declare -p RANDOM
