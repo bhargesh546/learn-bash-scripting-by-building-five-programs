@@ -271,3 +271,4 @@ help while
 touch bingo.sh
 ls --color=auto -l
 chmod +x bingo.sh
+code bingo.sh
