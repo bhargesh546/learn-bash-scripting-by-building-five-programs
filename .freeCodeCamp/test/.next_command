@@ -381,3 +381,7 @@ help [[ expression ]]
 VAR="hello world"
 echo $VAR
 [[ $VAR == "hello world" ]]
+[[ $VAR == ^h.+\?$ ]]
+[[ $VAR == \?$ ]]
+[[ $VAR =~ ^h.+\?$ ]]
+[[ $VAR =~ \?$ ]]
