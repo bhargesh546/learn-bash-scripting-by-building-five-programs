@@ -357,3 +357,6 @@ echo $@
 echo $@ arg1
 echo ${ARR*}
 echo ${ARR[*]}
+echo ${ARR[@]}
+declare -p RANDOM
+declare -p ARR
