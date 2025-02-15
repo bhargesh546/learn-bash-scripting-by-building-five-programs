@@ -360,3 +360,4 @@ echo ${ARR[*]}
 echo ${ARR[@]}
 declare -p RANDOM
 declare -p ARR
+./fortune.sh
