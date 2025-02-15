@@ -400,3 +400,4 @@ chmod +x five.sh
 code five.sh
 code five.sh
 ./five.sh
+clear
